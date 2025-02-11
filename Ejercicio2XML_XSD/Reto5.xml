@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Reto5XSD.xsd">
+  <libro> 
+    <titulo>1984</titulo>
+    <autor>George Orwell</autor>
+    <fechaPublicacion>1949</fechaPublicacion>
+    <editorial>Secker &amp; Warburg</editorial>
+    <genero>Ficción distópica</genero>
+  </libro>
+</biblioteca> 
